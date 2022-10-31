@@ -1,0 +1,11 @@
+.wrapper {
+    width: 150px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.img {
+    transition: all ease-in-out 10s;
+}
+.img-transform {
+    margin-left: -1500px;
+}
